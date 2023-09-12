@@ -1,5 +1,28 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Project Deployed in Vercel: [Posts App](https://nextjs13-faztcode.vercel.app/)
+
+Nextjs 13 Project using:
+- Src and App Folder
+- Import Alias (@)
+- ESLint
+- .env.local and .env
+- Google Fonts and TailwindCSS
+- Metadata
+- Link and Image Components
+- Layout and Page Structure
+- Client Routes
+- Dynamic Routes
+- API Routes using Route Handlers API
+- NextAuth Google Provider
+- Client and Server Components ('use client' and 'use server')
+- Middlewares for Protected Routes
+- Providers for mantain state in the app of the session
+
+
+### Links Projects
+- [FaztCode - Nextjs Login con Google con NextAuth](https://www.youtube.com/watch?v=YCEnpcCYlyo)
+
 ## Getting Started
 
 First, run the development server:
